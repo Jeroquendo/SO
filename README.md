@@ -51,4 +51,5 @@ Al ejecutarlo aparece un error invalid pointer.
 ![alt tag](https://github.com/Jeroquendo/SO/blob/master/imagenes/punto7.1.png)
 
 Utilizamos la herramienta valgrind, la cual detecta 2 errores generados por el apuntador. Al momento de ejecutarlo igual se mostró el problema.
+
 ![alt tag](https://github.com/Jeroquendo/SO/blob/master/imagenes/punto7.2.png)
